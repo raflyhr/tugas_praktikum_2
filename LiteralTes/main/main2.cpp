@@ -21,7 +21,7 @@ int main()
     char newline = '\n'; // escape sequence for newline
 
     // string literals
-    const string greeating = "hello, world!";
+    const string greeating = "good morning!";
     // boolean literals
     bool isTrue = true;   // boolean literal true 
     bool isFalse = false; // boolean literal false
@@ -34,4 +34,5 @@ int main()
     cout << "boolean: " << isTrue << ", " << isFalse << endl;
     system("pause");
     return 0;
+
 }
